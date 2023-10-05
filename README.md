@@ -19,5 +19,5 @@ I am currently a second year Computer Science student at Durham University. I am
 
 ## Links
 
-Linkedin - [Link Text](www.linkedin.com/in/charles-dubois-veltman-71a9ab274)
+[Linkedin] (www.linkedin.com/in/charles-dubois-veltman-71a9ab274)
 Email - charles.duboisveltman@gmail.com
