@@ -1,5 +1,4 @@
 ### Hi there 👋
----
 <!--
 **cdv123/cdv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 I am currently a second year Computer Science student at Durham University. I am passionate about coding and I am looking for an internship for this summer.
 
 ## Links
