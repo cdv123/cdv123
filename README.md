@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a second year Computer Science student at Durham University. I am passionate about coding and I am looking for an internship for this summer
+
+## Links
+
+Linkedin - [Link Text](www.linkedin.com/in/charles-dubois-veltman-71a9ab274)
+Email - charles.duboisveltman@gmail.com
